@@ -2,7 +2,7 @@
 #include <Arduino.h>
 
 #define DAC_PIN 25
-#define LOOP_DELAY 20
+#define LOOP_DELAY 5
 
 void setup()
 {
